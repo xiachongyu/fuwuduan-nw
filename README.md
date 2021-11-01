@@ -1,2 +1,1 @@
-# fuwuduan-nw
-倪雯的服务端配置文件  section12
+# fuwuduan-nw服务端配置文件  section12
